@@ -1,5 +1,5 @@
 # Simulation_Modeling - Term Paper
-Repository for Bocconi's Simulation and Modeling course. 
+Repository for Bocconi's Simulation and Modeling course
 
 Paper title: Agent-based modeling of the spread of financial crises conditional on the country of origin
 
