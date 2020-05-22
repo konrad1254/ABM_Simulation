@@ -7,7 +7,7 @@ SIR_On_Network: Network based SIR (EoN)
 ABM_and_conclusions: Agent based modeling and other considerations (directed graph)
 
 # Data:
-table-b3-s: Summary of foreign claims data based on https://stats.bis.org/statx/toc/CBS.html \\
+table-b3-s: Summary of foreign claims data based on https://stats.bis.org/statx/toc/CBS.html \n
 new credit score: credit scores and numerical calculation based on https://tradingeconomics.com/country-list/rating
 
 # Output:
