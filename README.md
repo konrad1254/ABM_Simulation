@@ -1,5 +1,9 @@
-# Simulation_Modeling
-Repository for Bocconi's Simulation and Modeling course - term paper
+# Simulation_Modeling - Term Paper
+Repository for Bocconi's Simulation and Modeling course. 
+
+Paper title: Agent-based modeling of the spread of financial crises conditional on the country of origin
+
+Authors: Hugo Paolini, Leonie Intat, Valentina Alto, Konrad Eilers, Anthonie Wali Kamp
 
 ## Code:
 Introduction_and_SIR: Data Cleaning, processing and simple SIR modeling
